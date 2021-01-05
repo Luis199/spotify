@@ -12,3 +12,9 @@ while results['next']:
 
 for album in albums:
     print(album['name'])
+
+
+
+# export SPOTIPY_CLIENT_ID='3750a2d0a4494d3385dbbda87871bab2'
+# export SPOTIPY_CLIENT_SECRET='81acd20ff18642b9b9c941d811dfa2de'
+# export SPOTIPY_REDIRECT_URI='your-app-redirect-url'
